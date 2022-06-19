@@ -119,6 +119,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VYFDSCIA
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for X1\Design Rule Check - X1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
